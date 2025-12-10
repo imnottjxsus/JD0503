@@ -2,7 +2,7 @@
 #include <fstream>
 #include <string>
 #include <math.h>   
-
+//goat
 using namespace std;
 
 const int MAX_ANCHO = 256;
